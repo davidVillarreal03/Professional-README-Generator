@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a project for developers to have an easily generated readme by filling out questions that will use their answers to fill out questions
+This is to make an easily generated read me for developers
 
 ## Table of Contents (Optional)
 
@@ -19,11 +19,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Must download into vs code in order to get the file made into the folder
+Must download into vs code inorder to use the program 
 
 ## Usage
 
-Open the terminal and put in the command node index.js to start the program to start building the readme
+Have to open the terminal within the folders, right click and choose "intergrated terminal" 
 
 ## Credits
 
@@ -38,7 +38,7 @@ https://choosealicense.com/licenses/mit/
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2024] [David Villarreal]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -70,11 +70,11 @@ If your project has a lot of features, list them here.
 
 ## How to Contribute
 
-Must go through git fork
+If you would like to contribute please use git fork
 
 ## Tests
 
-To test enter into the terminal to start program, then fill out the questions to get an idea of how your read me will look when it is completed
+After having the terminal open, you can execute the program by entering the command "node index.js". This will prompt the user with questions to fill out to create their very own and personalized readme
 
 ## Questions
 For questions about the project, you can reach me via:

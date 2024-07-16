@@ -8,7 +8,7 @@ const { renderLicenseLink } = require("./utils/generateMarkDown.js");
 // TODO: Create an array of questions for user input
 const questions = [];
 questions[0] = "What is the name for your project?";
-questions[1] = "Description of the project";
+questions[1] = "Description of the project:";
 questions[2] = "Please include installation instructions:";
 questions[3] = "Enter usage information:";
 questions[4] = "Enter contribution guidelines:";
