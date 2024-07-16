@@ -1,8 +1,12 @@
-undefined
+# ProfessionalReadMe
+## license
+![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 
 ## Description
 
-asdfasdf
+This is a project for developers to have an easily generated readme by filling out questions that will use their answers to fill out questions
 
 ## Table of Contents (Optional)
 
@@ -15,11 +19,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-asdfasdf
+Must download into vs code in order to get the file made into the folder
 
 ## Usage
 
-asdfasdf
+Open the terminal and put in the command node index.js to start the program to start building the readme
 
 ## Credits
 
@@ -30,18 +34,35 @@ If you used any third-party assets that require attribution, list the creators w
 If you followed tutorials, include links to those here as well.
 
 ## License
+https://choosealicense.com/licenses/mit/
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Features
 
@@ -49,13 +70,13 @@ If your project has a lot of features, list them here.
 
 ## How to Contribute
 
-asdfasdf
+Must go through git fork
 
 ## Tests
 
-asdfasdf
+To test enter into the terminal to start program, then fill out the questions to get an idea of how your read me will look when it is completed
 
 ## Questions
 For questions about the project, you can reach me via:
-- GitHub: [asdfasdf](https://github.com/asdfasdf)
-- Email: asdfasdf
+- GitHub: [davidVillarreal03](https://github.com/davidVillarreal03)
+- Email: djmarch92014@gmail.com
