@@ -1,4 +1,4 @@
-# ProfessionalReadMe
+# Professional README Generator
 ## license
 ![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-This is to make an easily generated read me for developers
+This will help developers generate a readme with just filling out questions within the prompt.
 
 ## Table of Contents (Optional)
 
@@ -19,11 +19,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Must download into vs code inorder to use the program 
+Must download as a repo to open within VS Code to use the application.
 
 ## Usage
 
-Have to open the terminal within the folders, right click and choose "intergrated terminal" 
+Using the program will require the user to right click on the folder, open an integrated terminal and enter the command "node index.js"
 
 ## Credits
 
@@ -70,11 +70,11 @@ If your project has a lot of features, list them here.
 
 ## How to Contribute
 
-If you would like to contribute please use git fork
+Want to help with this project? Developers can navigate to the GitHub repo and find the link that provides the contributing guide that will explain where any contribution workflow will go via git fork.
 
 ## Tests
 
-After having the terminal open, you can execute the program by entering the command "node index.js". This will prompt the user with questions to fill out to create their very own and personalized readme
+To test the program users can fill out the prompt questions, after entering "node index.js" within the terminal, to get an idea of how their readme will be structured.
 
 ## Questions
 For questions about the project, you can reach me via:
